@@ -1,6 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=afozbek&show_icons=true&theme=dracula">
 
-### Hello devs 👋
+# Hello devs 👋
+
 
 ## Furkan's Github Profile 😎
 
