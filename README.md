@@ -2,7 +2,6 @@
 
 # Hello devs 👋
 
-
 ## Furkan's Github Profile 😎
 
 I am a frontend developer and I mostly use React & Vue in my side projects. You can check out some of my projects and if you got any questions you can reach out in the links below. 
