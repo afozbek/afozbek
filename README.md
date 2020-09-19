@@ -27,6 +27,11 @@ As a frontend developer most of my time I write JavaScript. But in my free time 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Github Profile App](https://dev.to/afozbek/github-profile-app-1aa4)
+- [Accessible Todo App](https://dev.to/afozbek/accessible-todo-app-432f)
+- [Helpful Linux Commands (Nginx, Pm2, Nano, Docker)](https://dev.to/afozbek/helpful-linux-commands-nginx-pm2-nano-2a7k)
+- [Javascript ile Erişebilirlik: Tablist Elemanı](https://dev.to/afozbek/javascript-ile-erisebilirlik-tablist-elemani-4pei)
+- [SVG ile Alakalı Her Şey](https://dev.to/afozbek/svg-ile-alakali-her-sey-251j)
 <!-- BLOG-POST-LIST:END -->
 
 ## You can reach out 😊😊
