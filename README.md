@@ -4,9 +4,10 @@
 
 ## Furkan's Github Profile 😎
 
-I am a frontend developer and I mostly use React & Vue in my side projects. You can check out some of my projects and if you got any questions you can reach out in the links below. 
+I am a frontend developer and I mostly use React & Vue in my side projects. You can check out some of my projects and if you got any questions you can reach out in the links below.
 
 ## What programming languages I like
+
 As a frontend developer most of my time I write JavaScript. But in my free time I am trying to build some projects in the backend as well. And when it comes to backend I like to organize my code. Because of that I like Java as well.
 
 [![](https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -17,12 +18,19 @@ As a frontend developer most of my time I write JavaScript. But in my free time 
 [![](https://img.shields.io/badge/vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white)]()
 [![](https://img.shields.io/badge/java-f67317?style=for-the-badge&logo=java&logoColor=white)]()
 
-## Some of my projects 🐱‍🏍
-* [Collection of React Projects](https://github.com/afozbek/react-demo-projects) - **Recommended** ✨
-* [Github Profile Search](https://github.com/afozbek/github-profiles)
-* [Todo App](https://github.com/afozbek/react-todo-app) 
+## 🐱‍🏍 Some of my projects
+
+- [Collection of React Projects](https://github.com/afozbek/react-demo-projects) - **Recommended** ✨
+- [Github Profile Search](https://github.com/afozbek/github-profiles)
+- [Todo App](https://github.com/afozbek/react-todo-app)
+
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## You can reach out 😊😊
+
 Feel free to contact me about the problems. I will try to help as much as I can 😉
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afozbek/)
