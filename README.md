@@ -21,6 +21,7 @@ As a frontend developer most of my time I write JavaScript. But in my free time 
 ## ⭐ Some of my projects
 
 - [Collection of React Projects](https://github.com/afozbek/react-demo-projects) - **Recommended** ✨
+- [Reddit App](https://github.com/afozbek/reddit-frontend) - **Recommended** ✨
 - [Github Profile Search](https://github.com/afozbek/github-profiles)
 - [Todo App](https://github.com/afozbek/react-todo-app)
 
