@@ -8,7 +8,9 @@ I am a frontend developer and I mostly use React & Vue in my side projects. You 
 
 ## 💖 What programming languages I like
 
-As a frontend developer most of my time I write JavaScript. But in my free time I am trying to build some projects in the backend as well. And when it comes to backend I like to organize my code. Because of that I like Java as well.
+As a frontend developer most of my time I write JavaScript. But in my free time I am trying to build some projects in the backend as well. On serverside I use Node.js most of the time because why don't use javascript on backend? 😎
+
+Java and Python are always fun to code with. Especially when trying to solve algorithm/ds problems 😉
 
 [![](https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=white)]()
@@ -16,7 +18,9 @@ As a frontend developer most of my time I write JavaScript. But in my free time 
 [![](https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=white)]()
 [![](https://img.shields.io/badge/react-132bb1?style=for-the-badge&logo=react&logoColor=white)]()
 [![](https://img.shields.io/badge/vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white)]()
+[![](https://img.shields.io/badge/node-3C873A?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![](https://img.shields.io/badge/java-f67317?style=for-the-badge&logo=java&logoColor=white)]()
+[![](https://img.shields.io/badge/python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)]()
 
 ## ⭐ Some of my projects
 
