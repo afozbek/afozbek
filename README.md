@@ -1,10 +1,16 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=afozbek&show_icons=true&theme=dracula">
-
 # 👋 Hello devs
 
 ## 😎 Furkan's Github Profile
 
 I am a frontend developer and I mostly use React & Vue in my side projects. You can check out some of my projects and if you got any questions you can reach out in the links below.
+
+## 😉 Personal Analytics
+<p align="center">
+ <a href="https://github.com/afozbek">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afozbek&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=afozbek&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=7"/>
+ </a>
+</p>
 
 ## 💖 What programming languages I like
 
