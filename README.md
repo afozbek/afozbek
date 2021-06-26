@@ -41,11 +41,11 @@ You can participate [**this small survey**](https://tr.surveymonkey.com/r/SHX9KV
 ## 📃 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ethereum Development: Solidity](https://dev.to/afozbek/ethereum-development-solidity-31n9)
+- [How Context Helps for State Management](https://dev.to/afozbek/how-context-helps-for-state-management-gpg)
 - [React Hooks Which You can use it](https://dev.to/afozbek/react-hooks-which-you-can-use-it-32bh)
 - [Github Profile App](https://dev.to/afozbek/github-profile-app-1aa4)
 - [Accessible Todo App](https://dev.to/afozbek/accessible-todo-app-432f)
-- [Helpful Linux Commands (Nginx, Pm2, Nano, Docker)](https://dev.to/afozbek/helpful-linux-commands-nginx-pm2-nano-2a7k)
-- [Javascript ile Erişebilirlik: Tablist Elemanı](https://dev.to/afozbek/javascript-ile-erisebilirlik-tablist-elemani-4pei)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤙🏻 You can reach out
