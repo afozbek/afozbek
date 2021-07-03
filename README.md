@@ -35,9 +35,6 @@ Java and Python are always fun to code with. Especially when trying to solve alg
 - [Github Profile Search](https://github.com/afozbek/github-profiles)
 - [Todo App](https://github.com/afozbek/react-todo-app)
 
-## ✨ Want me to create a content?
-You can participate [**this small survey**](https://tr.surveymonkey.com/r/SHX9KV6) which helps me to create a best content for you 🖐
-
 ## 📃 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
