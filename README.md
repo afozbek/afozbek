@@ -12,6 +12,16 @@ I am a frontend developer and I mostly use React & Vue in my side projects. You 
  </a>
 </p>
 
+<p align="center" style="text-align: center;">
+  <a href="https://github.com/afozbek">
+   <img
+     width="400px"
+     align="center"
+     src="https://github-profile-trophy.vercel.app/?username=afozbek&theme=dracula&title=Commit,PullRequest,MultiLanguage,Stars,Followers&column=3&margin-w=15&margin-h=15" 
+    />
+ </a>
+</p>
+
 ## 💖 What programming languages I like
 
 As a frontend developer most of my time I write JavaScript. But in my free time I am trying to build some projects in the backend as well. On serverside I use Node.js most of the time because why don't use javascript on backend? 😎
