@@ -47,11 +47,11 @@ Java and Python are always fun to code with. Especially when trying to solve alg
 ## 📃 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [how to: useEffect](https://dev.to/afozbek/how-to-useeffect-e74)
 - [how to: useState](https://dev.to/afozbek/how-to-usestate-49kc)
 - [async/await in javascript](https://dev.to/afozbek/async-await-in-javascript-1pje)
 - [How to Rotate Background Image](https://dev.to/afozbek/how-to-rotate-background-image-35mi)
 - [Ethereum Development: Solidity](https://dev.to/afozbek/ethereum-development-solidity-31n9)
-- [How Context Helps for State Management](https://dev.to/afozbek/how-context-helps-for-state-management-gpg)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤙🏻 You can reach out
