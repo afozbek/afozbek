@@ -58,7 +58,8 @@ Java and Python are always fun to code with. Especially when trying to solve alg
 
 Feel free to contact me about the problems. I will try to help as much as I can 😉
 
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/afozbek_)
+[![Instagram Badge](https://img.shields.io/badge/instagram-fb3958?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/furkan.codes)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afozbek/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:furkanozbek1995@gmail.com)](mailto:furkanozbek1995@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/afozbek_)
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afozbek)
