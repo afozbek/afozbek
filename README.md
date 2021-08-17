@@ -48,11 +48,11 @@ Java and Python are always fun to code with. Especially when trying to solve alg
 ## 📃 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make object iterable](https://dev.to/afozbek/how-to-make-object-iterable-1jl2)
 - [Differences between Authentication and Authorization](https://dev.to/afozbek/differences-between-authentication-and-authorization-1opk)
 - [ES6 Features that you may not know](https://dev.to/afozbek/es6-features-that-you-may-not-know-32i2)
 - [how to: useEffect](https://dev.to/afozbek/how-to-useeffect-e74)
 - [how to: useState](https://dev.to/afozbek/how-to-usestate-49kc)
-- [async/await in javascript](https://dev.to/afozbek/async-await-in-javascript-1pje)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤙🏻 You can reach out
