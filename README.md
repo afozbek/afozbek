@@ -48,11 +48,11 @@ Java and Python are always fun to code with. Especially when trying to solve alg
 ## 📃 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Free Developer Resources](https://dev.to/afozbek/5-free-developer-resources-5530)
 - [7 Object Methods That You Should Know](https://dev.to/afozbek/7-object-methods-that-you-should-know-nah)
 - [how to useReducer](https://dev.to/afozbek/how-to-usereducer-3gfo)
 - [@supports rule on CSS](https://dev.to/afozbek/supports-rule-on-css-af2)
 - [How to hide React Components on Dev Extension](https://dev.to/afozbek/how-to-hide-react-components-on-extension-2d93)
-- [How to make object iterable](https://dev.to/afozbek/how-to-make-object-iterable-1jl2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤙🏻 You can reach out
