@@ -66,4 +66,5 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afozbek)
 
 ## 🙏🏻 Support Me
-- [Patreon](https://www.patreon.com/afozbek)
+
+[![Patreon Badge](https://img.shields.io/badge/patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/afozbek)
