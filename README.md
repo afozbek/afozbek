@@ -48,11 +48,11 @@ Java and Python are always fun to code with. Especially when trying to solve alg
 ## 📃 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Common Data Structures](https://dev.to/afozbek/5-common-data-structures-3jbl)
 - [3 Ways to set default values](https://dev.to/afozbek/3-ways-to-set-default-values-26d7)
 - [8 Javascript Tips  That You Should Know](https://dev.to/afozbek/8-javascript-tips-that-you-should-know-3l29)
 - [4 custom react hooks that will make your development easier](https://dev.to/afozbek/4-custom-react-hooks-that-will-make-your-development-easier-4gle)
 - [3 Website which you can find your custom React hooks](https://dev.to/afozbek/3-website-which-you-can-find-your-custom-react-hooks-1fa7)
-- [How to Copy Text To Clipboard Using Javascript](https://dev.to/afozbek/how-to-copy-text-to-clipboard-using-js-57il)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤙🏻 You can reach out
