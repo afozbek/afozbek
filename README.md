@@ -49,11 +49,11 @@ Java and Python are always fun to code with. Especially when trying to solve alg
 ## 📃 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [8 Free Public APIs That you can use in side projects](https://dev.to/afozbek/8-free-public-apis-that-you-can-use-in-side-projects-42p0)
 - [How to flatten array using Javascript](https://dev.to/afozbek/how-to-flatten-array-using-javascript-17kg)
 - [What is LocalStorage](https://dev.to/afozbek/what-is-localstorage-348j)
 - [React Hooks: useMemo](https://dev.to/afozbek/react-hooks-usememo-4n23)
 - [7 Useful Projects on Github for Web Developers](https://dev.to/afozbek/7-useful-projects-on-github-for-web-developers-1l4n)
-- [4 Tips to work on your side project while working full-time](https://dev.to/afozbek/4-tips-to-work-on-your-side-project-while-working-full-time-2o6)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤙🏻 You can reach out
