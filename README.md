@@ -49,12 +49,12 @@ Java and Python are always fun to code with. Especially when trying to solve alg
 ## 📃 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Array methods that you should know](https://dev.to/afozbek/array-methods-that-you-should-know-j0m)
 - [React Hooks: useRef](https://dev.to/afozbek/react-hooks-useref-ac3)
 - [How to Built
 Accessible Web Apps](https://dev.to/afozbek/how-to-built-accessible-web-apps-1e96)
 - [6 Javascript Projects for Beginners](https://dev.to/afozbek/6-javascript-projects-for-beginners-4h19)
 - [What is Function Composition](https://dev.to/afozbek/what-is-function-composition-232i)
-- [8 Free Public APIs That you can use in side projects](https://dev.to/afozbek/8-free-public-apis-that-you-can-use-in-side-projects-42p0)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤙🏻 You can reach out
