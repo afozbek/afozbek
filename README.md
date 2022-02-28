@@ -6,11 +6,12 @@ I am a frontend developer and I mostly use React & Vue in my side projects. You 
 
 ## 🎯 What goals I have for 2022
 
-- Smart Contract Developments with Solidity
-- Building Smart Contracts with Remix & Truffle
-- Interacting Blockchain with Metamask
-- Learn more about Moralis API
-- Try different node providers like Infura
+- [ ] Smart Contract Developments with Solidity
+- [ ] Learn more about Moralis API
+- [ ] Try different node providers like Infura, Alchemy
+- [ ] Learning more about web3 development
+- [ ] Improve myself at Next.js & React.js
+- [x] Building Smart Contracts with Remix & Truffle
 
 
 ## 💖 What programming languages I like
