@@ -6,11 +6,12 @@ I am a frontend developer and I mostly use React & Vue in my side projects. You 
 
 ## 🎯 What goals I have for 2022
 
-- [ ] Smart Contract Developments with Solidity
 - [ ] Learn more about Moralis API
-- [ ] Try different node providers like Infura, Alchemy
+- [ ] Check out Solona Development
 - [ ] Learning more about web3 development
-- [ ] Improve myself at Next.js & React.js
+- [ ] Learn How to Imprve Performance/Test at Next.js & React.js
+- [x] Smart Contract Developments with Solidity
+- [x] Try different node providers like Infura, Alchemy
 - [x] Building Smart Contracts with Remix & Truffle
 
 
