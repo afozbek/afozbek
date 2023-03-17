@@ -8,7 +8,6 @@ I expanded myself to web3 field and right now and I am working as a Web3 Fronten
 
 ## 🎯 What goals I have for 2023
 
-- [ ] 
 - [ ] Learn More About Design Patterns & React Patterns
 - [x] Check out Solona Development
 - [x] Learning more about web3 development, Ethereum, Solana, Ronin, etc.
