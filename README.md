@@ -6,16 +6,10 @@ I am a frontend developer and I mostly use React & Vue in my side projects. You 
 
 I expanded myself to web3 field and right now and I am working as a Web3 Frontend Engineer. I try to learn Solana & Ethereum Development in my free time. 
 
-## 🎯 What goals I have for 2023
+## 🎯 What goals I have for 2024
 
-- [ ] Learn More About Design Patterns & React Patterns
-- [x] Check out Solona Development
-- [x] Learning more about web3 development, Ethereum, Solana, Ronin, etc.
-- [x] Learn How to Improve Performance/Test at Next.js & React.js
-- [x] Learn more about Moralis API
-- [x] Smart Contract Developments with Solidity
-- [x] Try different node providers like Infura, Alchemy
-- [x] Building Smart Contracts with Remix & Truffle
+- [ ] Learn More About Next 14
+- [ ] Learn How Relays Work on Smart Contracts
 
 
 ## 💖 What programming languages I like
