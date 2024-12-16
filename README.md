@@ -66,7 +66,3 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afozbek/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:furkanozbek1995@gmail.com)](mailto:furkanozbek1995@gmail.com)
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afozbek)
-
-## 🙏🏻 Support Me
-
-[![Patreon Badge](https://img.shields.io/badge/patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/afozbek)
