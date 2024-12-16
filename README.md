@@ -6,12 +6,6 @@ I am a frontend developer and I mostly use React & Vue in my side projects. You 
 
 I expanded myself to web3 field and right now and I am working as a Web3 Frontend Engineer. I try to learn Solana & Ethereum Development in my free time. 
 
-## 🎯 What goals I have for 2024
-
-- [ ] Learn More About Next 14
-- [ ] Learn How Relays Work on Smart Contracts
-
-
 ## 💖 What programming languages I like
 
 As a frontend developer most of my time I write JavaScript. But in my free time I am trying to build some projects in the backend as well. On serverside I use Node.js most of the time because why don't use javascript on backend? 😎
